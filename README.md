@@ -33,7 +33,7 @@ This is a public list of companies that have been blacklisted due to their failu
 - briskly.online
 - smspubli.com
 - clarten.fr
-- ktechproducts.com
+- ktechproducts.com -- Leak source code and internal keys of multiple clients - no acknowledgement or reply
 - metricscube.io
 - oqlis.com
 - wasabi.com  -- leak AWS KEYS, DockerHub Username and Password, violation of multiple compilance, - No incident response communication - No credential rotation - No user or authority notification
